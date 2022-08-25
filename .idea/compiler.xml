@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="File_Server.File_Server-task-build-classes-java.main" target="11" />
+      <module name="File_Server.File_Server-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="File_Server.File_Server-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="File_Server.File_Server-task-build-reports-tests.main" target="11" />
+      <module name="File_Server.File_Server-task-build-test-results.main" target="11" />
+      <module name="File_Server.File_Server-task-build-tmp.main" target="11" />
+      <module name="File_Server.File_Server-task.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-The_Range_class.main" target="11" />
+      <module name="File_Server.Topics-Custom_serialization-Theory.main" target="11" />
+      <module name="File_Server.Topics-Executors-Asynchronous_email_sending.main" target="11" />
+      <module name="File_Server.Topics-Executors-Check_whether_a_number_is_prime.main" target="11" />
+      <module name="File_Server.Topics-Executors-Messaging.main" target="11" />
+      <module name="File_Server.Topics-Executors-Supplying_a_task.main" target="11" />
+      <module name="File_Server.Topics-Executors-The_order_of_lines_in_output.main" target="11" />
+      <module name="File_Server.Topics-Executors-Theory.main" target="11" />
+      <module name="File_Server.Topics-Serialization_basics-Serializable_user.main" target="11" />
+      <module name="File_Server.Topics-Serialization_basics-Theory.main" target="11" />
+      <module name="File_Server.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
